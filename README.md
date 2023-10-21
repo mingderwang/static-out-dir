@@ -10,3 +10,7 @@ Vercel CLI 32.4.1
 📝  To deploy to production (static-out-dir.vercel.app), run `vercel --prod`
 ✨  Done in 10.79s.
 ```
+
+# reference
+
+https://github.com/vercel/examples/tree/main/build-output-api/static-files/.vercel/output/static
