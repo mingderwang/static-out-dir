@@ -1,0 +1,12 @@
+{
+  "name": "static-out-dir",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "npx vercel deploy --prebuilt"
+  },
+  "keywords": [],
+  "author": "Ming-der Wang",
+  "license": "ISC"
+}
